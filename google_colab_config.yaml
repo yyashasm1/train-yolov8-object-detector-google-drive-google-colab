@@ -1,7 +1,9 @@
-path: '/content/gdrive/My Drive/ComputerVisionEngineer/ObjectDetectionYolov8GoogleColab/data' # dataset root dir
+path: '/content/gdrive/My Drive/Colab Notebooks/data' # dataset root dir
 train: images/train  # train images (relative to 'path')
 val: images/val  # val images (relative to 'path')
 
 names:
-  0: squirrel
+  0: bus
+  1: car
+  2: truck
 
